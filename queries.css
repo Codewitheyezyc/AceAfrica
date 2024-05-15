@@ -43,7 +43,7 @@
     display: block;
   }
   .header-logo {
-    width: 30%;
+    width: 28rem;
   }
   .header-nav {
     position: absolute;
@@ -206,7 +206,7 @@
     display: none;
   }
   .header-logo {
-    width: 40%;
+    width: 30rem;
   }
   .hero-section {
     margin-bottom: 0.4rem;
@@ -344,7 +344,7 @@
     color: #333;
   }
   .header-logo {
-    width: 45%;
+    width: 30rem;
   }
   .hero-section {
     margin-bottom: 0;

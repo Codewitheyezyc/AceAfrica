@@ -42,6 +42,9 @@
   .menu-icon {
     display: block;
   }
+  .header-logo {
+    width: 30%;
+  }
   .header-nav {
     position: absolute;
     top: 0;
@@ -202,6 +205,9 @@
   .company-name-container {
     display: none;
   }
+  .header-logo {
+    width: 40%;
+  }
   .hero-section {
     margin-bottom: 0.4rem;
   }
@@ -336,6 +342,9 @@
 @media (max-width: 34em) {
   p {
     color: #333;
+  }
+  .header-logo {
+    width: 45%;
   }
   .hero-section {
     margin-bottom: 0;

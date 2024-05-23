@@ -23,6 +23,9 @@
     margin-bottom: 7.2rem;
     margin-top: 7.2rem;
   }
+  .card-price {
+    font-size: 3rem;
+  }
   .faq-box {
     width: 85rem;
   }
@@ -103,6 +106,9 @@
   }
   .card ul li span {
     font-size: 2rem;
+  }
+  .card-price {
+    font-size: 3rem;
   }
   .me-text p {
     font-size: 1.8rem;
@@ -227,6 +233,10 @@
   }
   .card ul li span {
     font-size: 2rem;
+  }
+
+  .card-price {
+    font-size: 2.8rem;
   }
 
   .grid-4-rows {
@@ -382,10 +392,13 @@
     padding: 4.4rem 2rem;
   }
   .card {
-    padding: 2.4rem;
+    padding: 2.8rem;
   }
   .card ul li span {
     font-size: 1.8rem;
+  }
+  .card-price {
+    font-size: 2rem;
   }
   .grid-4-rows {
     padding: 0 1.2rem;
